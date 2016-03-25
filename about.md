@@ -1,0 +1,7 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+Welcome to the blogging arm of [voovarb.com](http://www.voovarb.com).  I mostly blog about R, and mostly so that I can have a searchable place for the code I wrote six months ago.  If that helps you, too, I'm just tickled to hear that.
