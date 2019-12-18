@@ -10,6 +10,8 @@ This blog is here for now.  Someday my [website](https://Myfanwy.github.io) may 
 <br>
 <h3>Blogroll</h3>
 
+[rweekly](https://rweekly.org/)
+
 [Michael Levy](www.michaellevy.name)
 
 [Rivers & Ranids](www.ryanpeek.github.io)
